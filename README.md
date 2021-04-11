@@ -1,2 +1,2 @@
 # frontendApp
-Repository for the application code created during the development course.
+ReactJS project created during the development course started on 12 April 2021. 
