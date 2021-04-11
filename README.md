@@ -1,2 +1,2 @@
 # frontendApp
-Application created during the frontend development course
+Repository for the application code created during the development course.
